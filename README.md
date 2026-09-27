@@ -31,7 +31,9 @@
 
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jwilliam-santos&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ryuzaki-Nightmare&theme=github-dark"/>
+</p>
 </div>
 
 
