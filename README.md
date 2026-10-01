@@ -1,4 +1,4 @@
-# Hi everyone, I'm a os-dev on the world! 👋
+# Hi everyone, I'm an os-dev on the world! 👋
 
 <br>
 
