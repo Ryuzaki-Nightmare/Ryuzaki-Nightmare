@@ -7,9 +7,10 @@
 <br>
 
 * I'm currently learning OSDEV development and making games.
-* I'm dev C,C++,Java,Python,ASM x86_64,Html and Css
+* My current project is Tapix,
+* I'm dev C,C++,Java,Python,Assembly x86_64.
 * 🌱 I'm exploring Linux environments.
-* ⚡ Fun fact: I like to test Linux distros every week in WSL.
+* ⚡ Fun fact: My favorite programming language is C.
 <hr>
 
 ## 🛠️ My Skills & Tools
