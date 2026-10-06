@@ -8,10 +8,11 @@
 
 * I'm currently learning OSDEV development and making games.
 * My current project is Tapix,
-* I'm dev C,C++,Java,Python,Assembly x86_64.
 * I HATE vibecode
+* 💻 I'm dev C,C++,Java,Python,Assembly x86_64.
 * 🌱 I'm exploring Linux environments.
 * ⚡ Fun fact: My favorite programming language is Assembly.
+* 👨‍💻 Current,my ide is nvim
 <hr>
 
 ## 🛠️ My Skills & Tools
