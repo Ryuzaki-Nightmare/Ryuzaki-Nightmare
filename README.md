@@ -7,7 +7,7 @@
 <br>
 
 * I'm currently learning OSDEV development and making games.
-* My current project is Tapix,
+* My current project is Genux,
 * I HATE vibecode
 * My best project so far is [Genux](https://github.com/Ryuzaki-Nightmare/Tapix)
 * 💻 I'm dev C,C++,Java,Python,Assembly x86_64.
