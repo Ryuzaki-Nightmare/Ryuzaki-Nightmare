@@ -14,6 +14,7 @@
 * 🌱 I'm exploring Linux environments.
 * ⚡ Fun fact: My favorite programming language is Assembly.
 * 👨‍💻 Current,my ide is nvim
+*  I'm XERJ contributor [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Ryuzaki-Nightmare/badge.svg)](https://hub.xerj.org/contributors/Ryuzaki-Nightmare)
 <hr>
 
 ## 🛠️ My Skills & Tools
@@ -23,6 +24,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,windows,linux,arch,vscode,neovim,vim,arduino,git,github" alt="My Skills" />
+    
   </a>
 </p>
 
